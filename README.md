@@ -1,14 +1,20 @@
 # ubidots-mqtt-esp32
 Forked  to make it work with both esp32 and esp8266
+
 MQTT library for connecting to Ubidots using MQTT protocol and an ESP32 or ESP8266 chip.
 
 ## Setup
 
 1. Uninstall "Ubidots MQTT for ESP8266"
+   
    Go to Tools > manage libraries
+   
    select filter type as installed
+   
    search for "Ubidots MQTT for ESP8266"
+   
    click on "1.2 installed" , then remove button will appeaar
+   
    remove the library
 3. Download this library (click to download)[https://github.com/JagritThukral/ubidots-mqtt-esp32/zipball/release]
 4. Now, click on Sketch -> Include Library -> Add .ZIP Library
