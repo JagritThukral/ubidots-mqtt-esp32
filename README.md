@@ -20,6 +20,7 @@ MQTT library for connecting to Ubidots using MQTT protocol and an ESP32 or ESP82
 2. go to tools > manage libraries
 3. search "Ubidots MQTT for ESP32 and ESP8266"
 4. install
+5. install the PubSubClient library if not installed already
 ### manually
 2. Download this library [click to download](https://github.com/JagritThukral/ubidots-mqtt-esp32/archive/refs/heads/master.zip)
 3. Now, click on Sketch -> Include Library -> Add .ZIP Library
