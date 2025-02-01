@@ -27,7 +27,7 @@ Modified by: Jose Garcia
 
 #ifndef UbidotsESPMQTT_H
 #define UbidotsESPMQTT_H
-#include <ESP8266WiFi.h>
+#include <WiFi.h>
 
 #include "PubSubClient.h"
 #include "string.h"
@@ -36,7 +36,7 @@ Modified by: Jose Garcia
 #define SERVER "industrial.api.ubidots.com"
 #define MAX_VALUES 5
 #define FIRST_PART_TOPIC "/v1.6/devices/"
-#define DEFAULT_DEVICE_LABEL "ESP8266"
+#define DEFAULT_DEVICE_LABEL "ESP32"
 
 #define META_DEBUG Serial
 
