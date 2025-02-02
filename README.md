@@ -19,7 +19,7 @@ MQTT library for connecting to Ubidots using MQTT protocol and an ESP32 or ESP82
 - ![image](https://github.com/user-attachments/assets/c0c01c3c-5e60-448f-87b5-cbb442b19423) ![image](https://github.com/user-attachments/assets/8d5994ce-6ff9-4103-8e48-7930f18e99e6)
 
 
-### 2. (b) manually
+### 2. (b) manually (not recommended)
 2. Download this library [click to download](https://github.com/JagritThukral/ubidots-mqtt-esp32/archive/refs/heads/master.zip)
 3. Now, click on Sketch -> Include Library -> Add .ZIP Library
 4. Select the .ZIP file that you have just downloaded and then “Accept” or “Choose”
